@@ -8,8 +8,7 @@ I am a recent Master's graduate in Computer Science from The University of Texas
 
 * 🌍  I'm based in Texas, USA
 * ✉️  You can contact me at [ryanluna319@gmail.com](mailto:ryanluna319@gmail.com)
-* 🚀  I'm currently working on [A Hydrodynamics-based flocking and obstacle avoidance algorithm for robot swarms.](http://github.com/MARSLab-UTRGV/Hydroflock)
-* 🧠  I'm learning Socket Programming, Docker, Linux Kernel Development, and Hydrodynamics
+* 🧠  I'm learning Socket Programming & Linux Kernel Development
 * 🤝  I'm open to collaborating on Swarm Robotics and Embedded Development Projects
 
 ### Skills
