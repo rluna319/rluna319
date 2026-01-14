@@ -1,4 +1,4 @@
-<img src="./assets/hand-wave.gif" width="48" /> My name is Ryan Luna
+<img src="https://raw.githubusercontent.com/rluna319/rluna319/main/assets/hand-wave.gif" width="42" /> My name is Ryan Luna
 =================================================================================================================================
 
 Embedded Systems Developer | C/C++ & Python Expert | Swarm Robotics Technology
