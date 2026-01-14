@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/rluna319/rluna319/main/assets/hand-wave.gif" width="42" /> My name is Ryan Luna
 =================================================================================================================================
 
-Embedded Systems Developer | C/C++ & Python Expert | Swarm Robotics Technology
+Embedded Systems| Kernel Development | Swarm Robotics Technology | C/C++, Python
 ------------------------------------------------------------------------------
 
 I hold an M.S. in Computer Science from The University of Texas Rio Grande Valley, where my work focused on security, fault detection, and algorithm design for decentralized robot swarms. My background spans embedded systems, low-level software, and distributed robotics, with hands-on experience in C/C++, Python, RTOS concepts, and simulation-based development.
