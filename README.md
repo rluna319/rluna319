@@ -24,9 +24,10 @@ I enjoy working on practical systems with real constraints—whether that’s em
 <p align="left"> <a href="https://www.github.com/rluna319" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ryan-luna-03018180/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 
-### My GitHub Stats
+### Stats
+![GitHub stats](https://github-readme-stats-rho-eosin-33.vercel.app/api?username=rluna319&show_icons=true&theme=github_dark)
 
-<a href="http://www.github.com/rluna319"><img src="https://github-readme-stats.vercel.app/api?username=rluna319&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rluna319's GitHub stats" /></a>
+![Top Languages](https://github-readme-stats-rho-eosin-33.vercel.app/api/top-langs/?username=rluna319&layout=compact&theme=github_dark)
 
 ### Support Me
 
