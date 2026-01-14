@@ -4,12 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Embedded Systems Developer | C/C++ & Python Expert | Swarm Robotics Technology
 ------------------------------------------------------------------------------
 
-I am a recent Master's graduate in Computer Science from The University of Texas Rio Grande Valley (UTRGV). My research focused on security and fault detection in decentralized robot swarms, and I’m currently delving into post-graduate research on hydrodynamics-based flocking and obstacle avoidance for robot swarms. During my undergraduate studies in Computer Engineering at UTRGV, I built a strong foundation in machine learning, database design/management, computer networks, OS development, biotechnology, and embedded systems. I'm proficient in C, C++, and Python, with practical experience in real-time object detection and environmental control systems. My professional journey includes embedded development, and I’m actively seeking software development opportunities to further my expertise in computer science and robotics. Feel free to explore my projects and contributions!
+I hold an M.S. in Computer Science from The University of Texas Rio Grande Valley, where my work focused on security, fault detection, and algorithm design for decentralized robot swarms. My background spans embedded systems, low-level software, and distributed robotics, with hands-on experience in C/C++, Python, RTOS concepts, and simulation-based development.
+
+Alongside my engineering work, I currently teach an introductory computer science course using Python, focusing on problem-solving and computational thinking from first principles. Teaching has strengthened my ability to write clear, maintainable code and communicate complex technical ideas effectively.
+
+I enjoy working on practical systems with real constraints—whether that’s embedded development, systems programming, or robotics—and I’m always looking to learn, build, and contribute to meaningful projects.
 
 * 🌍  I'm based in Texas, USA
 * ✉️  You can contact me at [ryanluna319@gmail.com](mailto:ryanluna319@gmail.com)
-* 🧠  I'm learning Socket Programming & Linux Kernel Development
-* 🤝  I'm open to collaborating on Swarm Robotics and Embedded Development Projects
 
 ### Skills
 
