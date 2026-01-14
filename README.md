@@ -10,8 +10,8 @@ Alongside my engineering work, I currently teach an introductory computer scienc
 
 I enjoy working on practical systems with real constraints—whether that’s embedded development, systems programming, or robotics—and I’m always looking to learn, build, and contribute to meaningful projects.
 
-* 🌍  I'm based in Texas, USA
-* ✉️  You can contact me at [ryanluna319@gmail.com](mailto:ryanluna319@gmail.com)
+### Contact
+Please visit my [site](https://rluna319.github.io/Ryan-Luna-Dev/) and use the form at the bottom.
 
 ### Skills
 
